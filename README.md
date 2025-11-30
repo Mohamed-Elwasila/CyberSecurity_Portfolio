@@ -1,6 +1,35 @@
 # Cybersecurity Learning Journey
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/Networking-0078D4?logo=cisco&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-004170?logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white">
+  <img src="https://img.shields.io/badge/Tcpdump-000000?logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Gobuster-FF6F00?logo=apache&logoColor=white">
+  <img src="https://img.shields.io/badge/Hydra-2F855A?logo=linux&logoColor=white">
+</p>
 
 This repository documents my progress in cybersecurity, including CTF writeups, TryHackMe learning paths, tool notes, and Python scripts for automation or security tasks.
+
+## Professional Statement
+### Summary
+I'm currently building my Cybersecurity Portfolio by documenting everything I learn — from CTFs and TryHackMe labs to Python automation scripts and tool development.
+My goal is to develop strong, practical foundations in:
+- Penetration Testing
+- Network Security
+- SOC Analysis
+- Threat Detection
+- Python-based security automation
+
+### Skills
+- Linux • Bash • Python • Go
+- Networking • SysAdmin Fundamentals
+- Nmap • Wireshark • Tcpdump • Gobuster • Hydra
+
+### Interests
+Cybersecurity, Ethical Hacking, CTFs, SOC Operations, Python Automation, Cloud Security, Open-Source Tools.
 
 ---
 
@@ -54,7 +83,7 @@ nmap -A <target>
 - `Pickle Rick (THM)` – *in progress*
 - More coming soon...
 
-*(Flags are never published.)*
+
 
 ---
 
