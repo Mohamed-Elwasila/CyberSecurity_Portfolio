@@ -24,4 +24,9 @@ A real-time network traffic monitoring tool that detects and blocks potential Do
 sudo python firewall_part2.py
 ```
 ---
+## 3. scanner_ping_sweeper.py
+### Ping sweeper, a simple tool which can scan a subnet and return a list of live hosts.
 
+```bash 
+sudo -E python scanner_ping_sweeper.py <IP address: ex. (127.0.0.1)> <Subnet: ex. (24)>
+```
